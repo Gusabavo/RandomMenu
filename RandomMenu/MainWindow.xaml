@@ -8,7 +8,7 @@
         Title="Welcome to Sloopy Joe's Budget House'oDiscount Sandwiches" Height="350" Width="550">
     <Grid Margin="20">
         <Grid.ColumnDefinitions>
-            <ColumnDefinition/>
+            <ColumnDefinition Width="5*"/>
             <ColumnDefinition/>
         </Grid.ColumnDefinitions>
         <Grid.RowDefinitions>
